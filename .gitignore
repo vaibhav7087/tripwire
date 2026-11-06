@@ -52,3 +52,6 @@ data/raw/
 *.zip
 *.apk
 *.so
+# hardened 2026-11-07 (vaibhav7087 backup)
+.env.production
+.env.local
