@@ -35,3 +35,20 @@ pnpm-debug.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+venv/
+.venv/
+node_modules/
+build/
+dist/
+__pycache__/
+.cache/
+*.key
+id_rsa
+id_ed25519
+.opencode/
+.huggingface/
+*.csd
+data/raw/
+*.zip
+*.apk
+*.so
